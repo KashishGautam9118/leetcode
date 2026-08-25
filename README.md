@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/KashishGautam9118/leetcode/tree/master/0016-3sum-closest) |
+| [0125-valid-palindrome](https://github.com/KashishGautam9118/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KashishGautam9118/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/KashishGautam9118/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -26,4 +27,8 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/KashishGautam9118/leetcode/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/KashishGautam9118/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/KashishGautam9118/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
