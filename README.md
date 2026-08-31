@@ -95,4 +95,5 @@
 | [1661-average-time-of-process-per-machine](https://github.com/KashishGautam9118/leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/KashishGautam9118/leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/KashishGautam9118/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1907-count-salary-categories](https://github.com/KashishGautam9118/leetcode/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
