@@ -68,6 +68,7 @@
 | [0066-plus-one](https://github.com/KashishGautam9118/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/KashishGautam9118/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/KashishGautam9118/leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/KashishGautam9118/leetcode/tree/master/0258-add-digits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -117,4 +118,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/KashishGautam9118/leetcode/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/KashishGautam9118/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/KashishGautam9118/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
