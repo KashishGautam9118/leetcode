@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/KashishGautam9118/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/KashishGautam9118/leetcode/tree/master/0016-3sum-closest) |
+| [0066-plus-one](https://github.com/KashishGautam9118/leetcode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KashishGautam9118/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/KashishGautam9118/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -63,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/KashishGautam9118/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/KashishGautam9118/leetcode/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
