@@ -28,6 +28,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/KashishGautam9118/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KashishGautam9118/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Linked List
 |  |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KashishGautam9118/leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/KashishGautam9118/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/KashishGautam9118/leetcode/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -111,4 +113,8 @@
 | [1907-count-salary-categories](https://github.com/KashishGautam9118/leetcode/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KashishGautam9118/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/KashishGautam9118/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KashishGautam9118/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
