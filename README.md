@@ -67,6 +67,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/KashishGautam9118/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/KashishGautam9118/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/KashishGautam9118/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/KashishGautam9118/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/KashishGautam9118/leetcode/tree/master/0258-add-digits) |
 ## Floyd's Cycle Finding Algorithm
@@ -126,4 +127,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KashishGautam9118/leetcode/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KashishGautam9118/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KashishGautam9118/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
