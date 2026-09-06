@@ -13,11 +13,9 @@ class Solution {
         int fast=n;
         while(fast!=1){
             slow=sumOfSquaresOfDigits(slow);
-            fast=sumOfSquaresOfDigits(sumOfSquaresOfDigits(fast));
-            if(fast==1){
-                return true;
-            }
-            if(slow==fast){
+            fast=sumOfSquaresOfDigits(fast);
+            fast=sumOfSquaresOfDigits(fast);
+            if(slow==fast && slow!=1){
                 return false;
             }
         }
