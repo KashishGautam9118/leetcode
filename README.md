@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/KashishGautam9118/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/KashishGautam9118/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/KashishGautam9118/leetcode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KashishGautam9118/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/KashishGautam9118/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/KashishGautam9118/leetcode/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/KashishGautam9118/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/KashishGautam9118/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/KashishGautam9118/leetcode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KashishGautam9118/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KashishGautam9118/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KashishGautam9118/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KashishGautam9118/leetcode/tree/master/0142-linked-list-cycle-ii) |
