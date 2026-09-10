@@ -15,6 +15,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/KashishGautam9118/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/KashishGautam9118/leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/KashishGautam9118/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0904-fruit-into-baskets](https://github.com/KashishGautam9118/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KashishGautam9118/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/KashishGautam9118/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KashishGautam9118/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -80,6 +81,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/KashishGautam9118/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/KashishGautam9118/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/KashishGautam9118/leetcode/tree/master/0217-contains-duplicate) |
+| [0904-fruit-into-baskets](https://github.com/KashishGautam9118/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KashishGautam9118/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/KashishGautam9118/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
