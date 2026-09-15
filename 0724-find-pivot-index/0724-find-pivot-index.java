@@ -9,12 +9,13 @@ class Solution {
         for(int i=0;i<nums.length;i++){
           
             int right=sum-left-nums[i];
-
+            
+           
             if(left==right){
                     return i;
             }
+             left=left+nums[i];
 
-            left=left+nums[i];
         }
         return -1;
     }
