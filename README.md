@@ -15,6 +15,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/KashishGautam9118/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/KashishGautam9118/leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/KashishGautam9118/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KashishGautam9118/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/KashishGautam9118/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/KashishGautam9118/leetcode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/KashishGautam9118/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -36,6 +37,7 @@
 | [0202-happy-number](https://github.com/KashishGautam9118/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/KashishGautam9118/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KashishGautam9118/leetcode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KashishGautam9118/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/KashishGautam9118/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/KashishGautam9118/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/KashishGautam9118/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -47,6 +49,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KashishGautam9118/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KashishGautam9118/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/KashishGautam9118/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KashishGautam9118/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -62,6 +65,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/KashishGautam9118/leetcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/KashishGautam9118/leetcode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KashishGautam9118/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/KashishGautam9118/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -89,6 +93,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/KashishGautam9118/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/KashishGautam9118/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/KashishGautam9118/leetcode/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KashishGautam9118/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/KashishGautam9118/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/KashishGautam9118/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KashishGautam9118/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
