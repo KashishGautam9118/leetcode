@@ -46,6 +46,7 @@
 | [0287-find-the-duplicate-number](https://github.com/KashishGautam9118/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KashishGautam9118/leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KashishGautam9118/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0647-palindromic-substrings](https://github.com/KashishGautam9118/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/KashishGautam9118/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/KashishGautam9118/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/KashishGautam9118/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -88,6 +89,7 @@
 | [0125-valid-palindrome](https://github.com/KashishGautam9118/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KashishGautam9118/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/KashishGautam9118/leetcode/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/KashishGautam9118/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/KashishGautam9118/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/KashishGautam9118/leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
@@ -184,6 +186,7 @@
 | [0053-maximum-subarray](https://github.com/KashishGautam9118/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/KashishGautam9118/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/KashishGautam9118/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/KashishGautam9118/leetcode/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KashishGautam9118/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KashishGautam9118/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
