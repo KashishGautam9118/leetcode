@@ -24,6 +24,7 @@
 | [0287-find-the-duplicate-number](https://github.com/KashishGautam9118/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KashishGautam9118/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/KashishGautam9118/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/KashishGautam9118/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KashishGautam9118/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/KashishGautam9118/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/KashishGautam9118/leetcode/tree/master/0724-find-pivot-index) |
@@ -126,6 +127,7 @@
 | [0217-contains-duplicate](https://github.com/KashishGautam9118/leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KashishGautam9118/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KashishGautam9118/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/KashishGautam9118/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KashishGautam9118/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/KashishGautam9118/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KashishGautam9118/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -266,10 +268,12 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KashishGautam9118/leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/KashishGautam9118/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/KashishGautam9118/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KashishGautam9118/leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/KashishGautam9118/leetcode/tree/master/0496-next-greater-element-i) |
 ## Manacher
 |  |
 | ------- |
