@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/KashishGautam9118/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/KashishGautam9118/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KashishGautam9118/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KashishGautam9118/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KashishGautam9118/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/KashishGautam9118/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KashishGautam9118/leetcode/tree/master/0053-maximum-subarray) |
@@ -59,6 +60,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KashishGautam9118/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KashishGautam9118/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/KashishGautam9118/leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/KashishGautam9118/leetcode/tree/master/0162-find-peak-element) |
