@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/KashishGautam9118/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KashishGautam9118/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/KashishGautam9118/leetcode/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KashishGautam9118/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/KashishGautam9118/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KashishGautam9118/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/KashishGautam9118/leetcode/tree/master/0162-find-peak-element) |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KashishGautam9118/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KashishGautam9118/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/KashishGautam9118/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/KashishGautam9118/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KashishGautam9118/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -280,6 +282,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KashishGautam9118/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KashishGautam9118/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/KashishGautam9118/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KashishGautam9118/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KashishGautam9118/leetcode/tree/master/0739-daily-temperatures) |
@@ -291,4 +294,8 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/KashishGautam9118/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/KashishGautam9118/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
